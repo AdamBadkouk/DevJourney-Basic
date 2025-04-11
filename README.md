@@ -6,7 +6,3 @@ This is my first website, built using HTML and CSS. It’s a simple, responsive 
 - HTML5
 - CSS3
 
-## Features
-- Clean and responsive layout
-- Easy navigation
-- Simple, visually appealing design
